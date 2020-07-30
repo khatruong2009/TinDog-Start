@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
  font-family: "Montserrat";
 }
@@ -130,3 +134,42 @@ body {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Call to Action */
+#cta {
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  color: white;
+  text-align: center;
+}
+
+#cta h3 {
+  font-family: "Montserrat-Black";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+
+/* Footer */
+#footer {
+  text-align: center;
+  padding-top: 1%;
+}
+
+#footer a {
+  padding: 1%;
+}
+
+
+@media screen and (max-width: 1028px) {
+  #phone-dog {
+    transform: rotate(0deg);
+    position: static;
+  }
+
+  .title {
+    text-align: center;
+  }
+}
+
