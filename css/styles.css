@@ -13,7 +13,7 @@ body {
 }
 
 .container-fluid {
- padding: 3% 15%;
+ padding: 3% 15% 7%;
 }
 
 /* Nav Bar */
@@ -46,8 +46,9 @@ body {
 
 #phone-dog {
  transform: rotate(25deg);
- width: 45%;
+ width: 50%;
  position: absolute;
+ right: 25%;
 }
 
 /* Features  */
