@@ -46,7 +46,8 @@ body {
 
 #phone-dog {
  transform: rotate(25deg);
- width: 60%;
+ width: 45%;
+ position: absolute;
 }
 
 /* Features  */
@@ -57,6 +58,8 @@ body {
 
 #features {
  padding: 7% 15%;
+ background-color: white;
+ position: relative;
 }
 
 .features i {
