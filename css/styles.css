@@ -80,3 +80,36 @@ body {
 .features p {
  color: #8f8f8f;
 }
+
+/* Testimonials  */
+#testimonials {
+ padding: 7% 15%;
+ text-align: center;
+ background-color: #ff4c68;
+ color: white;
+}
+
+#testimonials h2 {
+ font-family: "Montserratt-Bold";
+ font-size: 3rem;
+ font-weight: 900;
+ line-height: 1.5;
+}
+
+.test-img {
+ border-radius: 100%;
+ width: 10%;
+ margin: 20px;
+}
+
+/* Press */
+#press {
+ background-color: #ff4c68;
+ text-align: center;
+ padding-bottom: 3%;
+}
+
+.press-logo {
+ width: 15%;
+ margin: 20px 20px 50px 20px;
+}
